@@ -1,0 +1,146 @@
+.container {
+	border: 1px solid black;
+	width: 1280px;
+	min-width: 1280px;
+	margin:0 auto;
+	min-height: 800px;
+}
+
+.mpTitle {
+	margin-top: 45px;
+    font-size: 40px;
+    border-bottom: 2px solid #afafaf;
+    width: 1080px;
+    margin-left: 200px;
+    color: #484848;
+    padding-bottom: 10px;
+}
+
+.number {
+	position: relative;
+    right: -50px;
+    font-size: large;
+    bottom: -30px;
+}
+
+.email{
+	position: relative;
+    right: -50px;
+    font-size: large;
+    bottom: -60px;
+}
+
+.address{
+	position: relative;
+    right: -50px;
+    font-size: large;
+    bottom: -100px;
+}
+
+.textBtn{
+	right: -310px;
+    position: relative;
+    bottom: -22px;
+    width: 100px;
+    height: 38px;
+    vertical-align: top;
+    background: #3333e8;
+    color: white;
+    border:none;
+    cursor:pointer;
+}
+
+.password1{
+	position: relative;
+    right: -50px;
+    font-size: large;
+    bottom: -120px;
+}
+
+.password2{
+	position: relative;
+    right: -50px;
+    font-size: large;
+    bottom: -150px;
+}
+
+.num{
+	right: -200px;
+    position: relative;
+    bottom: -5px;
+    width: 250px;
+    height: 30px;
+    vertical-align: top;
+}
+
+.mail{
+	right: -200px;
+    position: relative;
+    bottom: -35px;
+    vertical-align: top;
+    width: 250px;
+    height: 30px;
+}
+
+.address1{
+	right: -199px;
+    position: relative;
+    bottom: -76px;
+    vertical-align: top;
+    width: 100px;
+    height: 32px;
+}
+
+.address2{
+	right: -400px;
+    position: relative;
+    bottom: -80px;
+    vertical-align: top;
+    width: 100px;
+    height: 32px;
+}
+
+.address3{
+	right: -250px;
+    position: relative;
+    bottom: -80px;
+    vertical-align: top;
+    left: -16px;
+    width: 280px;
+    height: 32px;
+}
+
+.pwd1{
+	right: -199px;
+    position: relative;
+    bottom: -180px;
+    width: 280px;
+    height: 32px;
+}
+
+.pwd2{
+	right: -199px;
+    position: relative;
+    bottom: -40px;
+    width: 280px;
+    height: 32px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

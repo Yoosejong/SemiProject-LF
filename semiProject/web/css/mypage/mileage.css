@@ -1,0 +1,65 @@
+.container {
+	border: 1px solid black;
+	width: 1280px;
+	min-width: 1280px;
+	margin:0 auto;
+	min-height: 800px;
+}
+
+.mpTitle {
+	margin-top: 45px;
+    font-size: 40px;
+    border-bottom: 2px solid #afafaf;
+    width: 1080px;
+    margin-left: 200px;
+    color: #484848;
+    padding-bottom: 10px;
+}
+
+.imgsample{
+	background: gray;
+    border: 1px solid black;
+    height: 400px;
+    position: relative;
+    bottom: -30px;
+    width: 410px;
+    left: 210px;
+}
+
+.buycomplete{
+	position: relative;
+    left: 500px;
+    bottom: 50px;
+}
+
+.mig{
+	position: relative;
+    left: 319px;
+    bottom: -15px;
+    font-weight: bold;
+    font-size: large;
+    color: red;
+    background: #dadada;
+}
+
+.migname{
+	left: 400px;
+    position: relative;
+    height: 50px;
+    bottom: 374px;
+    color: white;
+    width: 200px;
+    text-align: center;
+    border: none;
+    background: #3333e8;
+}
+
+.migBtn{
+	height: 60px;
+    top: 130px;
+    color: white;
+    position: relative;
+    border: none;
+    cursor: pointer;
+    background: #3333e8;
+}

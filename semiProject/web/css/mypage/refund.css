@@ -1,0 +1,60 @@
+.container {
+	border: 1px solid black;
+	width: 1280px;
+	min-width: 1280px;
+	margin:0 auto;
+	min-height: 800px;
+}
+
+.mpTitle {
+	margin-top: 45px;
+    font-size: 40px;
+    border-bottom: 2px solid #afafaf;
+    width: 1080px;
+    margin-left: 200px;
+    color: #484848;
+    padding-bottom: 10px;
+}
+
+
+.refundreason{
+	position: relative;
+    left: 50px;
+    top: 400px;
+    width: 400px;
+    height: 30px;
+}
+
+.refundlistBtn{
+	position: relative;
+    top: 550px;
+    left: 340px;
+    width: 100px;
+    background: #3333e8;
+    height: 50px;
+    cursor: pointer;
+    color: white;
+    border: none;
+}
+
+.refundapplyBtn{
+	position: relative;
+    top: 550px;
+    left: 350px;
+    width: 100px;
+    background: #3333e8;
+    color: white;
+    height: 50px;
+    cursor: pointer;
+    border: none;
+}
+
+.nothing{
+	background: gray;
+    border: 1px solid black;
+    height: 400px;
+    position: relative;
+    bottom: 70px;
+    width: 410px;
+    left: 235px;
+}

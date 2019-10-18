@@ -1,0 +1,29 @@
+.container {
+	border: 1px solid black;
+	width: 1280px;
+	min-width: 1280px;
+	margin:0 auto;
+	min-height: 800px;
+}
+
+.mpTitle {
+	margin-top: 45px;
+    font-size: 40px;
+    border-bottom: 2px solid #afafaf;
+    width: 1080px;
+    margin-left: 200px;
+    color: #484848;
+    padding-bottom: 10px;
+}
+
+.reviewWrite{
+	
+}
+
+.reviewModify{
+	
+}
+
+.reviewDelete{
+	
+}

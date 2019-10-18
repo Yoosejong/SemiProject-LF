@@ -1,0 +1,148 @@
+.container {
+	border: 1px solid black;
+	width: 1280px;
+	min-width: 1280px;
+	margin:0 auto;
+	min-height: 800px;
+}
+
+.mpTitle {
+	margin-top: 45px;
+    font-size: 40px;
+    border-bottom: 2px solid #afafaf;
+    width: 1080px;
+    margin-left: 200px;
+    color: #484848;
+    padding-bottom: 10px;
+}
+
+.basket{
+	height: 40px;
+    width: 1080px;
+    background: #dadada;
+    position: relative;
+    bottom: -12px;
+    vertical-align: middle;
+    left: 10px;
+    text-align: center;
+    display: table-cell;
+}
+
+.btn1{
+	position: relative;
+    bottom: -130px;
+    right: -20px;
+}
+
+.btnlabel{
+	position: relative;
+    bottom: -130px;
+    width: 60px;
+    right: -13px;
+    text-align: center;
+}
+
+.btn2{
+	position: relative;
+    bottom: -130px;
+    right: -6px;
+    width: 23px;
+}
+
+.btn3{
+	position: relative;
+    bottom: -270px;
+    right: 109px;
+}
+
+.btnlabel1{
+	position: relative;
+    bottom: -270px;
+    width: 60px;
+    right: 116px;
+    text-align: center;
+}
+
+.btn4{
+	position: relative;
+    bottom: -270px;
+    right: 122px;
+    width: 23px;
+}
+
+.btn5{
+	position: relative;
+    bottom: -410px;
+    right: 239px;
+}
+
+.btnlabel2{
+	position: relative;
+    bottom: -410px;
+    width: 60px;
+    right: 245px;
+    text-align: center;
+}
+
+.btn6{
+	position: relative;
+    bottom: -410px;
+    right: 252px;
+    width: 23px;
+}
+
+.ordermoney{
+	position: relative;
+    bottom: -460px;
+    right: 340px;
+}
+
+.sendmoney{
+	position: relative;
+    bottom: -500px;
+    right: 410px;
+}
+
+.hr{
+	position: relative;
+    bottom: -500px;
+    border: none;
+    border-top: 3px solid #afafaf;
+}
+
+.payment{
+	position: relative;
+    bottom: -510px;
+    left: 40px;
+    font-size: large;
+    font-weight: 900;
+}
+
+.hr1{
+	position: relative;
+    bottom: -510px;
+    border: none;
+    border-top: 3px solid #afafaf;
+}
+
+.buybtn{
+	position: relative;
+    bottom: -500px;
+    width: 1090px;
+    height: 40px;
+    background: #3333e8;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
