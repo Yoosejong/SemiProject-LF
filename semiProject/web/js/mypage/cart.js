@@ -4,7 +4,6 @@ $(function() {
 
 $(function(){
 	
-	
 	$(".btn1").on("click", function() {
 		$(".btnlabel").val(Number($(".btnlabel").val())+1);
 	});
