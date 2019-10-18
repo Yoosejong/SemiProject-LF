@@ -13,4 +13,5 @@ $(function() {
 	subPage[8] = "myQna.bo";
 	
 	var getAr0 = url.indexOf(subPage[0]);*/
+	
 });
